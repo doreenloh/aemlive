@@ -1,5 +1,6 @@
-# Your Project's Title...
-Your project's description...
+# ROOTS.gov.sg - AEM Edge Delivery Services Implementation
+
+AEM Edge Delivery Services implementation of the ROOTS.gov.sg website - Singapore's one-stop destination to discover diverse culture and history through collections of objects, images, stories and more, brought to you by the National Heritage Board.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
